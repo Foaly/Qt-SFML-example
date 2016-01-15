@@ -1,0 +1,9 @@
+# ignore CLion directory
+.idea/*
+
+# runtime binaries
+*.dll
+*.exe
+
+# CMake user file
+*.txt.user
